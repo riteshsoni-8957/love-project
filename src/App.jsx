@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
+      
 
-
-<HomeMain/>
+      <HomeMain/>
      </>
   )
 }

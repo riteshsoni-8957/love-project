@@ -10,13 +10,13 @@ import BirthdayWish from './BirthdayWish'
 const HomeMain = () => {
   return (
     <div>
-        {/* <LovePurpose/> */}
-        {/* <LovePurposeHindi/> */}
-        {/* <FlirtyLoveProposal/> */}
-        {/* <BirthdaySurprise/> */}
+        <LovePurpose/>
+        <LovePurposeHindi/>
+        <FlirtyLoveProposal/>
+        <BirthdaySurprise/>
 
-        {/* <InteractiveLoveStory/> */}
-        {/* <InteractiveLoveStory2/> */}
+        <InteractiveLoveStory/>
+        <InteractiveLoveStory2/>
         <BirthdayWish/>
     </div>
   )
